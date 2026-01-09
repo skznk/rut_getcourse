@@ -1,6 +1,6 @@
 Course Sniper Bot
 
-Hi, this is my course registation bot designed for the rutgers webreg system. It uses selenium and is operated through the terminal. 
+Hi, this is my course registation bot designed for the rutgers webreg system. It uses selenium and is operated through the terminal. This replaces the first project I ever made that is now broken and was very bloated that I made in Java.
 
 Please clone the repository and extract all dependencies from pyproject.toml by doing "pip install ."
 
